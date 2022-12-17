@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML page</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500&display=swap" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    </head>
+    <body>
+        <header>
+            <div class="Sticky-navbar">
+                <div class="company-name">
+                    <h4>ACCIOJOB</h4>
+                </div>
+                <div class="menu">
+                    <ul>
+                        <a href="#">Home</a>
+                        <a href="#">About Us</a>
+                        <a href="#">Mobile App</a>
+                        <a href="#">Contact Us</a>
+                    </ul>
+                </div>
+            </div>
+        </header>
+
+
+        <main>
+            <section id="info-image">
+                <div class="info-image">
+                    <div class="info">
+                        <div class="heading">
+                            <h1>Heading 1</h1>
+                        </div>
+                        <div class="info-para">
+                            <p>Since March 8, 1990, Woman’s Day is being observed by SAARC (South Asian Association for Regional Cooperation) consisting of seven countries, namely, India, Pakistan, Nepal, Bhutan, Bangladesh, Sri Lanka, and the Maldives. The day was marked to focus on the problems of girl children in these countries. It is a pity that girl children especially in underdeveloped countries are victims of extreme negligence and dishonour. The birth of a girl child is looked upon by the parents as a cause of pity. They are deprived of proper nutrition, education, economic facilities, and social status or honour.
+
+                                Superstitions and social and religious prejudices give rise to such distressing conditions. We must root out these prejudices and ensure a bright future for the girl children by giving them proper education. Moreover, woman’s rights must be established in social and economic fields.
+                            </p>
+                            <div class="learn button">
+                                <button type="button">Learn More</button>
+                            </div>
+                            <div class="image">
+                                <img src="/images/sample images for womens day - Google Search.html" alt="logo">
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+        <footer>
+
+        </footer>
+        
+    </body>
+
+
+</html>
