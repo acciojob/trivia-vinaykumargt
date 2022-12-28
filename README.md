@@ -18,7 +18,6 @@
     </div>
     <blockquote cite="https://en.wikipedia.org/wiki/New_Delhi" style=" max-width: 600px; margin: 10px; padding: 15px; border-left: 8px solid green;background-color: #f8fffe; font-weight: bold;">
         New Delhi is the capital of India and an administrative district of NCT Delhi.
-
-    </blockquote>
+ </blockquote>
 </body>
 </html>
